@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Nathan. I'm a university student currently pursuing a Computer Science major with a German minor. This site acts as a place for me to write about projects I'm working on (when I'm not doing homework for university). It currently runs on Jekyll with the Minima theme. You can find the source code for the site on it's [github page](https://github.com/QuoteNat/quotenat.github.io).
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -13,6 +13,3 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
